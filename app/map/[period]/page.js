@@ -9,8 +9,6 @@ import { icon } from 'leaflet';
 
 
 
-
-
 export default function PeriodMap({ params }) {
     const artefacts = data?.artefacts.filter((artefact) => artefact.periodTag === params.period);
 
