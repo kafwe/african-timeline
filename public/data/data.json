@@ -1294,22 +1294,6 @@
       "imageUrl": "https://www.islamicarchitecturalheritage.com/wp-content/uploads/2020/07/lamu-fort.jpg"
     },
     {
-      "id": 85,
-      "name": "Saharan Rock Art",
-      "type": "art",
-      "period": "Medieval",
-      "periodTag": "medieval",
-      "year": "",
-      "locationName": "Tassili n'Ajjer",
-      "region": "Algeria",
-      "location": {
-        "latitude": 25.0000,
-        "longitude": 9.0000
-      },
-      "description": "Rock art from Tassili n'Ajjer, Algeria.",
-      "readme": "saharan-rock-art"
-    },
-    {
       "id": 86,
       "name": "Benin Ivory Carvings",
       "type": "art",
@@ -1323,39 +1307,8 @@
         "longitude": 5.6046
       },
       "description": "Ivory carvings from Benin City, Nigeria.",
-      "readme": "benin-ivory-carvings"
-    },
-    {
-      "id": 87,
-      "name": "Mbanza Kongo Ruins",
-      "type": "building",
-      "period": "Medieval",
-      "periodTag": "medieval",
-      "year": "",
-      "locationName": "Mbanza Kongo",
-      "region": "Angola",
-      "location": {
-        "latitude": -6.2687,
-        "longitude": 14.2350
-      },
-      "description": "Ruins of Mbanza Kongo, Angola.",
-      "readme": "mbanza-kongo-ruins"
-    },
-    {
-      "id": 88,
-      "name": "Adal Sword",
-      "type": "tech",
-      "period": "Medieval",
-      "periodTag": "medieval",
-      "year": "",
-      "locationName": "Adal Sultanate",
-      "region": "Ethiopia",
-      "location": {
-        "latitude": 9.6150,
-        "longitude": 41.8500
-      },
-      "description": "Sword from the Adal Sultanate in Ethiopia.",
-      "readme": "adal-sword"
+      "readme": "benin-ivory-carvings",
+      "imageUrl": "https://media.britishmuseum.org/media/Repository/Documents/2019_10/1_17/20b9e8ec_5a1a_40aa_b770_aad9011d3534/preview_EAF15976_F.jpg"
     },
     {
       "id": 89,
@@ -1371,7 +1324,8 @@
         "longitude": 38.7100
       },
       "description": "Obelisks of Aksum, Ethiopia.",
-      "readme": "aksum-obelisks"
+      "readme": "aksum-obelisks",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rome_Stele.jpg/1200px-Rome_Stele.jpg"
     },
     {
       "id": 90,
@@ -1387,7 +1341,8 @@
         "longitude": 39.1983
       },
       "description": "Wooden doors from the Swahili Coast in Zanzibar, Tanzania.",
-      "readme": "swahili-wooden-doors"
+      "readme": "swahili-wooden-doors",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Swahili_Door%2C_Tabora%2C_Tanzania.jpg/1280px-Swahili_Door%2C_Tabora%2C_Tanzania.jpg"
     },
     {
       "id": 91,
@@ -1403,7 +1358,8 @@
         "longitude": 2.4183
       },
       "description": "Terracotta figures from the Kingdom of Dahomey in Benin.",
-      "readme": "dahomey-terracotta-figures"
+      "readme": "dahomey-terracotta-figures",
+      "imageUrl": "https://vanishingafricanart.com/wp-content/uploads/2021/01/Small-IFE.jpg"
     },
     {
       "id": 92,
@@ -1419,23 +1375,8 @@
         "longitude": 33.6445
       },
       "description": "Inscriptions from the Meroitic civilization in Meroe, Sudan.",
-      "readme": "meroitic-inscriptions"
-    },
-    {
-      "id": 93,
-      "name": "Great Zimbabwe Soapstone Birds",
-      "type": "art",
-      "period": "Pre-Colonial",
-      "periodTag": "pre-colonial",
-      "year": "",
-      "locationName": "Great Zimbabwe",
-      "region": "Zimbabwe",
-      "location": {
-        "latitude": -20.2736,
-        "longitude": 30.9754
-      },
-      "description": "Soapstone birds from Great Zimbabwe, Zimbabwe.",
-      "readme": "great-zimbabwe-soapstone-birds"
+      "readme": "meroitic-inscriptions",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Meroitische_Inschrift%2C_Meroe_1._Jh._n._Chr.%2C_Aegyptisches_Museum%2C_Muenchen-1.jpg"
     },
     {
       "id": 94,
@@ -1451,7 +1392,8 @@
         "longitude": 8.0817
       },
       "description": "Jewelry from the Tuareg people in the Sahara Desert region.",
-      "readme": "tuareg-jewelry"
+      "readme": "tuareg-jewelry",
+      "imageUrl": "https://amazighworldnews.com/wp-content/uploads/2016/04/5e21efbca1041016ffe5db0987d4f014.jpg"
     },
     {
       "id": 95,
@@ -1467,7 +1409,8 @@
         "longitude": 29.8739
       },
       "description": "Beaded jewelry from the Maasai people in Kenya and Tanzania.",
-      "readme": "maasai-beaded-jewelry"
+      "readme": "maasai-beaded-jewelry",
+      "imageUrl": "https://thomsonsafaris.com/wp-content/uploads/2017/12/beads_closeup2.jpg"
     },
     {
       "id": 96,
@@ -1483,7 +1426,8 @@
         "longitude": 31.4659
       },
       "description": "Reed dance ceremonial shields from Eswatini (formerly Swaziland).",
-      "readme": "swazi-reed-dance-ceremonial-shields"
+      "readme": "swazi-reed-dance-ceremonial-shields",
+      "imageUrl": "https://thomsonsafaris.com/wp-content/uploads/2017/12/beads_closeup2.jpg"
     },
     {
       "id": 97,
@@ -1499,7 +1443,8 @@
         "longitude": 3.9470
       },
       "description": "Gelede masks from the Yoruba region in Nigeria.",
-      "readme": "yoruba-gelede-masks"
+      "readme": "yoruba-gelede-masks",
+      "imageUrl": "https://www.artic.edu/iiif/2/0374be94-27a8-3d6f-5144-45135d81f158/full/843,/0/default.jpg"
     },
     {
       "id": 98,
@@ -1515,7 +1460,8 @@
         "longitude": 21.7587
       },
       "description": "Power figures from the Kongo Kingdom in the Democratic Republic of the Congo and Angola.",
-      "readme": "kongo-power-figures"
+      "readme": "kongo-power-figures",
+      "imageUrl": "https://cdn.kastatic.org/ka-perseus-images/e0a9ad2d284f155d71798efeaaac4b402fee0a02.jpg"
     },
     {
       "id": 99,
@@ -1531,23 +1477,8 @@
         "longitude": 14.5260
       },
       "description": "Wooden carvings from the Himba people in Namibia.",
-      "readme": "himba-wooden-carvings"
-    },
-    {
-      "id": 100,
-      "name": "San Rock Paintings",
-      "type": "art",
-      "period": "Pre-Colonial",
-      "periodTag": "pre-colonial",
-      "year": "",
-      "locationName": "Southern Africa",
-      "region": "South Africa, Namibia, Botswana",
-      "location": {
-        "latitude": -23.9884,
-        "longitude": 21.0936
-      },
-      "description": "Rock paintings from the San people in Southern Africa.",
-      "readme": "san-rock-paintings"
+      "readme": "himba-wooden-carvings",
+      "imageUrl": "https://www.artic.edu/iiif/2/0374be94-27a8-3d6f-5144-45135d81f158/full/843,/0/default.jpg"
     },
     {
       "id": 101,
@@ -1563,7 +1494,8 @@
         "longitude": -1.6214
       },
       "description": "The Golden Stool of the Ashanti people in Kumasi, Ghana.",
-      "readme": "ashanti-golden-stool"
+      "readme": "ashanti-golden-stool",
+      "imageUrl": "https://i2.wp.com/ringmar.net/irhistorynew/wp-content/uploads/2018/10/goldenstool.png"
     },
     {
       "id": 102,
@@ -1579,7 +1511,8 @@
         "longitude": 35.5296
       },
       "description": "Wood carvings from the Makonde people in Mozambique and Tanzania.",
-      "readme": "makonde-wood-carvings"
+      "readme": "makonde-wood-carvings",
+      "imageUrl": "https://unitedrepublicoftanzania.com/wp-content/uploads/2022/01/Quick-Snapshot-of-the-Makonde-Carvings-Sculpture-and-Art.jpg"
     },
     {
       "id": 103,
@@ -1595,7 +1528,8 @@
         "longitude": 22.9375
       },
       "description": "Beadwork from the Ndebele people in South Africa and Zimbabwe.",
-      "readme": "ndebele-beadwork"
+      "readme": "ndebele-beadwork",
+      "imageUrl": "https://www.frankliwild.com/cdn/shop/products/Frankli_Wild-Czech_Glass_Bead_Infinity_Scarf-Ndebele-NK-6-3.jpg?v=1552346542"
     },
     {
       "id": 104,
@@ -1611,7 +1545,8 @@
         "longitude": -1.6214
       },
       "description": "Colorful woven cloth known as Kente from the Ashanti region in Ghana.",
-      "readme": "kente-cloth"
+      "readme": "kente-cloth",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/53d2a092e4b0125510bfe57d/1452595760287-E4AUHOU28U7BT2990E20/image-asset.jpeg"
     },
     {
       "id": 105,
@@ -1627,7 +1562,8 @@
         "longitude": 30.8958
       },
       "description": "Shields used by the Zulu people in KwaZulu-Natal, South Africa.",
-      "readme": "zulu-shields"
+      "readme": "zulu-shields",
+      "imageUrl": "https://web.prm.ox.ac.uk/weapons/images/joomgallery/originals/africa_1/arms_and_armour_-_africa_20101126_1798179227.jpg"
     },
     {
       "id": 106,
@@ -1643,7 +1579,8 @@
         "longitude": -1.5616
       },
       "description": "Dolls from the Mossi people in Burkina Faso.",
-      "readme": "mossi-dolls"
+      "readme": "mossi-dolls",
+      "imageUrl": "https://www.hamillgallery.com/MOSSI/MossiDolls/MossiDoll07.JPG"
     },
     {
       "id": 107,
@@ -1659,7 +1596,8 @@
         "longitude": -3.9962
       },
       "description": "Chiwara headdresses from the Bambara people in Mali, Guinea, and Burkina Faso.",
-      "readme": "bambara-chiwara-headdresses"
+      "readme": "bambara-chiwara-headdresses",
+      "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/310864/667086/restricted"
     },
     {
       "id": 108,
@@ -1675,7 +1613,8 @@
         "longitude": 7.4943
       },
       "description": "Masquerade costumes from the Yoruba region in Nigeria.",
-      "readme": "yoruba-egungun-masquerade-costumes"
+      "readme": "yoruba-egungun-masquerade-costumes",
+      "imageUrl": "https://learn.ncartmuseum.org/wp-content/uploads/2017/06/Benin-Egungun-Costume-97.5.1-675x1024.jpg"
     },
     {
       "id": 109,
@@ -1691,12 +1630,13 @@
         "longitude": 7.4943
       },
       "description": "Uli body art from the Igbo region in Nigeria.",
-      "readme": "igbo-uli-body-art"
+      "readme": "igbo-uli-body-art",
+      "imageUrl": "https://i0.wp.com/refinedng.com/wp-content/uploads/2020/05/uli-feat.jpg?fit=880%2C599&ssl=1"
     },
     {
       "id": 110,
       "name": "Tutsi Basketry",
-      "type": "art",
+      "type": "tech",
       "period": "Pre-Colonial",
       "periodTag": "pre-colonial",
       "year": "",
@@ -1707,7 +1647,8 @@
         "longitude": 29.8739
       },
       "description": "Basketry from the Tutsi people in Rwanda, Burundi, Uganda, and Democratic Republic of the Congo.",
-      "readme": "tutsi-basketry"
+      "readme": "tutsi-basketry",
+      "imageUrl": "https://www.beprimitive.com/assets/img/blog/blog-tutsi-basket-weaving-02-large.jpg"
     },
     {
       "id": 111,
@@ -1723,7 +1664,8 @@
         "longitude": 7.494884
       },
       "description": "Mbari houses from the Igbo region in Nigeria.",
-      "readme": "igbo-mbari-houses"
+      "readme": "igbo-mbari-houses",
+      "imageUrl": "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2021/09/Mbari-Houses-Cement-reconstruction-of-an-Mbari-at-the-Museum-of-Traditional-Architecture.jpeg?fit=2400%2C1587&quality=100&ssl=1"
     },
     {
       "id": 112,
@@ -1732,30 +1674,15 @@
       "period": "Pre-Colonial",
       "periodTag": "pre-colonial",
       "year": "",
-      "locationName": "Angola, Democratic Republic of the Congo, Zambia",
-      "region": "Central Africa, Southern Africa",
+      "locationName": "Congo",
+      "region": "Central Africa",
       "location": {
         "latitude": -11.2027,
         "longitude": 17.8739
       },
       "description": "Wooden masks from the Chokwe people in Angola, Democratic Republic of the Congo, and Zambia.",
-      "readme": "chokwe-wooden-masks"
-    },
-    {
-      "id": 113,
-      "name": "Oromo Gadaa System Artifacts",
-      "type": "tech",
-      "period": "Pre-Colonial",
-      "periodTag": "pre-colonial",
-      "year": "",
-      "locationName": "Oromia region",
-      "region": "Ethiopia",
-      "location": {
-        "latitude": 8.7806,
-        "longitude": 38.7578
-      },
-      "description": "Artifacts related to the Gadaa system of the Oromo people in the Oromia region, Ethiopia.",
-      "readme": "oromo-gadaa-system-artifacts"
+      "readme": "chokwe-wooden-masks",
+      "imageUrl": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/319264/667158/restricted"
     },
     {
       "id": 114,
@@ -1771,7 +1698,8 @@
         "longitude": 21.7587
       },
       "description": "Raffia textiles from the Kuba people in the Democratic Republic of the Congo.",
-      "readme": "kuba-raffia-textiles"
+      "readme": "kuba-raffia-textiles",
+      "imageUrl": "https://www.contemporary-african-art.com/images/Moraga_Kuba_cut-pile-embroidered-cloth-copy.jpg"
     },
     {
       "id": 115,
@@ -1787,7 +1715,8 @@
         "longitude": -1.5616
       },
       "description": "Bateba sculptures from the Lobi people in Burkina Faso, Ghana, and Ivory Coast.",
-      "readme": "lobi-bateba-sculptures"
+      "readme": "lobi-bateba-sculptures",
+      "imageUrl": "https://discoverafricanart.com/wp-content/uploads/2017/10/Lobi_Figure_1006471_03.jpg"
     }
     
     
