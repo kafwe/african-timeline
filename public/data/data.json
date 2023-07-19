@@ -32,7 +32,7 @@
       },
       "description": "Excavations at Olorgesailie have revealed Acheulean tools, including handaxes and cleavers.",
       "readme": "olorgesailie-prehistoric-site",
-      "imageUrl": ""
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/ff/46/75/olorgesailie-pre-historic.jpg?w=1200&h=-1&s=1"
     },
     {
       "id": 3,
@@ -49,7 +49,7 @@
       },
       "description": "Excavations at these caves have uncovered early human artifacts, including stone tools.",
       "readme": "sterkfontein-and-swartkrans-caves",
-      "imageUrl": ""
+      "imageUrl": "https://i0.wp.com/enterthecaves.com/wp-content/uploads/2022/12/Sterkfontein-Caves-Cover.jpg?fit=2413%2C1611&ssl=1"
     },
     {
       "id": 4,
@@ -66,7 +66,7 @@
       },
       "description": "Excavations at Wonderwerk Cave have revealed stone tools, hearths, and animal remains.",
       "readme": "wonderwerk-cave",
-      "imageUrl": "https://static.kent.ac.uk/media/news/2021/03/Acheulean-handaxes-e1616600558751.jpg"
+      "imageUrl": "https://visitstothepark.files.wordpress.com/2013/05/2011.jpg"
     },
     {
       "id": 5,
@@ -82,11 +82,12 @@
         "longitude": 3.075
       },
       "description": "Pebble tools associated with a Lower Pleistocene mammalian assemblage.",
-      "readme": "pebble-tools-from-algeria"
+      "readme": "pebble-tools-from-algeria",
+      "imageUrl": "https://files.ekmcdn.com/kcl45/images/a-rare-and-extremely-early-paleolithic-homo-erectus-handaxe-from-algeria-north-africa-(3)-2730-p.jpg?v=a281b63d-51ff-4913-829c-f5343dba2c7d"
     },
     {
       "id": 6,
-      "name": "Hand axes of both Abbevillian and Acheulean type",
+      "name": "Hand axes",
       "type": "tech",
       "period": "Early Stone Age",
       "periodTag": "early-stone-age",
@@ -98,11 +99,12 @@
         "longitude": 10.166
       },
       "description": "Hand axes of both Abbevillian and Acheulean type, together with flake tools.",
-      "readme": "hand-axes-of-both-abbevillian-and-acheulean-type"
+      "readme": "hand-axes-of-both-abbevillian-and-acheulean-type",
+      "imageUrl": "https://cdn11.bigcommerce.com/s-fme25/images/stencil/500x659/products/3747/54564/ach249td__66409.1550722700.jpg?c=2"
     },
     {
       "id": 7,
-      "name": "Tanged points made on flakes and flake blades",
+      "name": "Tanged points",
       "type": "tech",
       "period": "Early Stone Age",
       "periodTag": "early-stone-age",
@@ -114,7 +116,8 @@
         "longitude": 10.166
       },
       "description": "Tanged points made on flakes and flake blades, characteristic of the Aterian culture, from North Africa.",
-      "readme": "tanged-points-made-on-flakes-and-flake-blades"
+      "readme": "tanged-points-made-on-flakes-and-flake-blades",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Neolithic_re-touched_flint_flake_tool_%28probably%29_%28FindID_225268%29.jpg"
     },
     {
       "id": 8,
@@ -130,7 +133,8 @@
         "longitude": 23.773
       },
       "description": "Large bifacial hand axes from Kathu in the Northern Cape province of South Africa.",
-      "readme": "large-bifacial-hand-axes-from-kathu"
+      "readme": "large-bifacial-hand-axes-from-kathu",
+      "imageUrl": "https://www.researchgate.net/profile/Marcel-Niekus/publication/282372207/figure/fig25/AS:421750627409938@1477564593979/A-complete-handaxe-biface-cordiforme-seen-from-two-sides-and-in-side-view-Photo-J-R.png"
     },
     {
       "id": 9,
@@ -146,7 +150,8 @@
         "longitude": 21.7134
       },
       "description": "Engravings found in Blombos Cave, South Africa.",
-      "readme": "blombos-cave-engravings"
+      "readme": "blombos-cave-engravings",
+      "imageUrl": "https://humanorigins.si.edu/sites/default/files/styles/full_width/public/climate_effects_image_15.jpg.webp?itok=2IwNjHT2"
     },
     {
       "id": 10,
@@ -162,23 +167,8 @@
         "longitude": 21.6078
       },
       "description": "Stone tools associated with the Howiesons Poort culture found in Rose Cottage Cave, South Africa.",
-      "readme": "howiesons-poort-stone-tools"
-    },
-    {
-      "id": 11,
-      "name": "Still Bay Points",
-      "type": "tech",
-      "period": "Middle Stone Age",
-      "periodTag": "middle-stone-age",
-      "year": "",
-      "locationName": "Pinnacle Point",
-      "region": "South Africa",
-      "location": {
-        "latitude": -34.1941,
-        "longitude": 22.1015
-      },
-      "description": "Distinctive stone points known as Still Bay Points found at Pinnacle Point, South Africa.",
-      "readme": "still-bay-points"
+      "readme": "howiesons-poort-stone-tools",
+      "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S0305440308000733-gr2.jpg"
     },
     {
       "id": 12,
@@ -194,7 +184,8 @@
         "longitude": 29.3466
       },
       "description": "Bone harpoons from the Middle Stone Age discovered in Katanda, Democratic Republic of the Congo.",
-      "readme": "bone-harpoons"
+      "readme": "bone-harpoons",
+      "imageUrl": "https://humanorigins.si.edu/sites/default/files/styles/full_width/public/images/portrait/3.3.3-17_Harpoon_Katanda_CC_p.jpg.webp?itok=hIgNwbvG"
     },
     {
       "id": 13,
@@ -210,7 +201,8 @@
         "longitude": 21.3197
       },
       "description": "Tools associated with the processing of ochre found at Diepkloof Rock Shelter, South Africa.",
-      "readme": "ochre-processing-tools"
+      "readme": "ochre-processing-tools",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2011/1-100000yearol.jpg"
     },
     {
       "id": 14,
@@ -226,7 +218,8 @@
         "longitude": -3.0266
       },
       "description": "Shell beads discovered in Taforalt Cave, Morocco.",
-      "readme": "shell-beads"
+      "readme": "shell-beads",
+      "imageUrl": "https://humanorigins.si.edu/sites/default/files/styles/full_width/public/3.6.3-8c_shell_beads_taforalt_l.jpg.webp?itok=zeYl7XMa"
     },
     {
       "id": 15,
@@ -242,7 +235,8 @@
         "longitude": 31.0712
       },
       "description": "Microliths with backing found in Sibudu Cave, South Africa.",
-      "readme": "backed-microliths"
+      "readme": "backed-microliths",
+      "imageUrl": "https://www.researchgate.net/profile/Marlize-Lombard/publication/256678582/figure/fig4/AS:297939428757507@1448045703664/Quartz-segments-and-backed-pieces-from-Sibudu-Cave-KwaZulu-Natal-South-Africa.png"
     },
     {
       "id": 16,
@@ -258,7 +252,8 @@
         "longitude": 18.9636
       },
       "description": "Levallois points discovered in Apollo 11 Cave, Namibia.",
-      "readme": "levallois-points"
+      "readme": "levallois-points",
+      "imageUrl": "https://ka-perseus-images.s3.amazonaws.com/5ddc7405f9523b03f2197fc40c8d363e1ffc58f7.jpg"
     },
     {
       "id": 17,
@@ -274,7 +269,8 @@
         "longitude": 21.3197
       },
       "description": "Engraved ostrich eggshell fragments found at Diepkloof Rock Shelter, South Africa.",
-      "readme": "engraved-ostrich-eggshell-fragments"
+      "readme": "engraved-ostrich-eggshell-fragments",
+      "imageUrl": "https://www.wired.com/images_blogs/wiredscience/2010/03/ostrich_egg_shells-660x691.jpg"
     },
     {
       "id": 18,
@@ -290,23 +286,8 @@
         "longitude": 31.7605
       },
       "description": "Bone tools, including awls and needles, found at Border Cave, South Africa/Swaziland.",
-      "readme": "bone-tools"
-    },
-    {
-      "id": 19,
-      "name": "Stone Blades and Backed Pieces",
-      "type": "tech",
-      "period": "Middle Stone Age",
-      "periodTag": "middle-stone-age",
-      "year": "",
-      "locationName": "Howiesons Poort, Rose Cottage Cave",
-      "region": "South Africa",
-      "location": {
-        "latitude": -34.0379,
-        "longitude": 21.6078
-      },
-      "description": "Stone blades and backed pieces associated with the Howiesons Poort culture found in Rose Cottage Cave, South Africa.",
-      "readme": "stone-blades-backed-pieces"
+      "readme": "bone-tools",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/MSNBC/Components/Photo/_new/120730-Civilization1Photo-hmed-1235a_files.jpg"
     },
     {
       "id": 20,
@@ -322,7 +303,8 @@
         "longitude": 22.1166
       },
       "description": "Shellfish middens and fishing gear found in Nelson Bay Cave, South Africa.",
-      "readme": "shellfish-middens-fishing-gear"
+      "readme": "shellfish-middens-fishing-gear",
+      "imageUrl": "https://www.researchgate.net/profile/Kevin-Lidour/publication/330400806/figure/fig3/AS:874068895092738@1585405672626/Neolithic-fishing-gear-selection-of-stone-sinkers-and-shell-fish-hooks-from-Akab.png"
     },
     {
       "id": 21,
@@ -338,23 +320,8 @@
         "longitude": 24.3765
       },
       "description": "Bone spearheads discovered at Twin Rivers and Klasies River Caves, South Africa.",
-      "readme": "bone-spearheads"
-    },
-    {
-      "id": 22,
-      "name": "Shell Beads",
-      "type": "art",
-      "period": "Middle Stone Age",
-      "periodTag": "middle-stone-age",
-      "year": "",
-      "locationName": "Taforalt Cave",
-      "region": "Morocco",
-      "location": {
-        "latitude": 34.9611,
-        "longitude": -3.0266
-      },
-      "description": "Shell beads discovered in Taforalt Cave, Morocco.",
-      "readme": "shell-beads"
+      "readme": "bone-spearheads",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Os_Tarté_MHNT_PRE.2009.0.248.2_Noir.jpg"
     },
     {
       "id": 23,
@@ -370,7 +337,8 @@
         "longitude": 9.0000
       },
       "description": "Rock art found in Tassili n'Ajjer, Algeria.",
-      "readme": "tassili-najjer-rock-art"
+      "readme": "tassili-najjer-rock-art",
+      "imageUrl": "https://whc.unesco.org/uploads/thumbs/site_0179_0001-1200-630-20090910111123.jpg"
     },
     {
       "id": 24,
@@ -385,8 +353,9 @@
         "latitude": 22.5242,
         "longitude": 30.8428
       },
-      "description": "Megaliths found in Nabta Playa, Egypt.",
-      "readme": "nabta-playa-megaliths"
+      "description": "Large, prehistoric monuments made of stone found in Nabta Playa, Egypt.",
+      "readme": "nabta-playa-megaliths",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Calendar_aswan.JPG"
     },
     {
       "id": 25,
@@ -402,7 +371,8 @@
         "longitude": -15.3101
       },
       "description": "Stone circles found in Senegal and The Gambia.",
-      "readme": "stone-circles-senegambia"
+      "readme": "stone-circles-senegambia",
+      "imageUrl": "https://whc.unesco.org/uploads/thumbs/site_1226_0001-750-750-20090923154919.jpg"
     },
     {
       "id": 26,
@@ -418,7 +388,8 @@
         "longitude": 14.5819
       },
       "description": "Cattle engravings and rock paintings found in Brandberg Mountain, Namibia.",
-      "readme": "cattle-engravings-rock-paintings"
+      "readme": "cattle-engravings-rock-paintings",
+      "imageUrl": "https://sacredsites.com/images/africa/namibia/Uis-White-Lady-Rock-painting-02-1200.jpg"
     },
     {
       "id": 27,
@@ -434,7 +405,8 @@
         "longitude": 8.9047
       },
       "description": "Terracotta sculptures found in Nok, Nigeria.",
-      "readme": "nok-terracotta-sculptures"
+      "readme": "nok-terracotta-sculptures",
+      "imageUrl": "https://images.nationalgeographic.org/image/upload/v1638892378/EducationHub/photos/nok-terracotta-bas-relief-sculpture.jpg"
     },
     {
       "id": 28,
@@ -450,7 +422,8 @@
         "longitude": 28.5198
       },
       "description": "Painted cave rock art found in Matobo Hills, Zimbabwe.",
-      "readme": "painted-cave-rock-art"
+      "readme": "painted-cave-rock-art",
+      "imageUrl": "https://sacredsites.com/images/africa/zimbabwe/Matopo-Hills-Nswatugi-Cave-rock-paintings-04-1200.jpg"
     },
     {
       "id": 29,
@@ -466,28 +439,13 @@
         "longitude": 12.2296
       },
       "description": "Pottery found in Gobero, Niger.",
-      "readme": "gobero-pottery"
-    },
-    {
-      "id": 30,
-      "name": "Stonehenge-like Monuments",
-      "type": "tech",
-      "period": "Late Stone Age",
-      "periodTag": "late-stone-age",
-      "year": "",
-      "locationName": "Nabta Playa",
-      "region": "Egypt",
-      "location": {
-        "latitude": 22.5242,
-        "longitude": 30.8428
-      },
-      "description": "Stonehenge-like monuments found in Nabta Playa, Egypt.",
-      "readme": "stonehenge-like-monuments"
+      "readme": "gobero-pottery",
+      "imageUrl": "https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/8/856/files/2019/09/Gobero_potterySherds.png"
     },
     {
       "id": 30,
       "name": "Great Zimbabwe Ruins",
-      "type": "tech",
+      "type": "building",
       "period": "Late Stone Age",
       "periodTag": "late-stone-age",
       "year": "",
@@ -498,7 +456,8 @@
         "longitude": 30.9387
       },
       "description": "Ruins of Great Zimbabwe, an ancient city in Masvingo, Zimbabwe.",
-      "readme": "great-zimbabwe-ruins"
+      "readme": "great-zimbabwe-ruins",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg/1200px-Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg"
     },
     {
       "id": 31,
@@ -514,12 +473,13 @@
         "longitude": -4.5537
       },
       "description": "Terracotta figures from the archaeological site of Djenne-Djenno in Mali.",
-      "readme": "djenne-djenno-terracotta-figures"
+      "readme": "djenne-djenno-terracotta-figures",
+      "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/dimension=469x1024:format=jpg/path/s78e026e07f0805bc/image/id50e49b62239d0ad/version/1468585384/image.jpg"
     },
     {
       "id": 32,
       "name": "Tichitt Walata Archaeological Sites",
-      "type": "tech",
+      "type": "building",
       "period": "Late Stone Age",
       "periodTag": "late-stone-age",
       "year": "",
@@ -530,7 +490,8 @@
         "longitude": -10.4167
       },
       "description": "Archaeological sites of Tichitt and Walata in Mauritania.",
-      "readme": "tichitt-walata-archaeological-sites"
+      "readme": "tichitt-walata-archaeological-sites",
+      "imageUrl": "https://whc.unesco.org/uploads/thumbs/site_0750_0001-1200-630-20151105122717.jpg"
     },
     {
       "id": 33,
@@ -546,7 +507,8 @@
         "longitude": 11.4399
       },
       "description": "Petroglyphs of the Garamantes civilization in Wadi Mathendous, Libya.",
-      "readme": "garamantes-petroglyphs"
+      "readme": "garamantes-petroglyphs",
+      "imageUrl": "https://africanrockart.britishmuseum.org/assets/images/site/2013_2034.407.jpg"
     },
     {
       "id": 34,
@@ -562,7 +524,8 @@
         "longitude": 8.5557
       },
       "description": "Rock art from the Tenerian culture in the Aïr Mountains, Niger.",
-      "readme": "tenerian-rock-art"
+      "readme": "tenerian-rock-art",
+      "imageUrl": "Tenerian Rock Art"
     },
     {
       "id": 35,
@@ -578,7 +541,8 @@
         "longitude": 21.7819
       },
       "description": "Rock art from the Tsodilo Hills in Botswana.",
-      "readme": "tsodilo-rock-art"
+      "readme": "tsodilo-rock-art",
+      "imageUrl": "https://africanrockart.britishmuseum.org/assets/images/site/BOTTSD0100011_jpeg.jpg"
     },
     {
       "id": 36,
@@ -594,7 +558,8 @@
         "longitude": 36.2210
       },
       "description": "Pottery from the Elmenteitan culture in Elmenteita, Kenya.",
-      "readme": "elmenteitan-pottery"
+      "readme": "elmenteitan-pottery",
+      "imageUrl": "https://oxfordre.com/africanhistory/doc/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-1045-graphic-008-full.jpg"
     },
     {
       "id": 37,
@@ -610,7 +575,8 @@
         "longitude": 31.1711
       },
       "description": "Pottery from the Gerzeh culture in Gerzeh, Egypt.",
-      "readme": "gerzeh-pottery"
+      "readme": "gerzeh-pottery",
+      "imageUrl": "https://kids.kiddle.co/images/thumb/e/e5/Egypte_louvre_316.jpg/300px-Egypte_louvre_316.jpg"
     },
     {
       "id": 38,
@@ -626,7 +592,8 @@
         "longitude": 39.5215
       },
       "description": "Ruins of Songo Mnara, an ancient Swahili settlement in Tanzania.",
-      "readme": "songo-mnara-ruins"
+      "readme": "songo-mnara-ruins",
+      "imageUrl": "https://www.zamaniproject.org/assets/images/1-panorama08-cr-800x516-800x516.jpg"
     },
     {
       "id": 39,
@@ -642,7 +609,8 @@
         "longitude": 30.8428
       },
       "description": "Polished stone axes found in Nabta Playa, Egypt.",
-      "readme": "polished-stone-axes"
+      "readme": "polished-stone-axes",
+      "imageUrl": "https://files.ekmcdn.com/kcl45/images/a-large-and-pleasant-neolithic-polished-stone-axe-from-north-wales-sold-2930-p.jpg?v=a281b63d-51ff-4913-829c-f5343dba2c7d"
     },
     {
       "id": 40,
@@ -658,7 +626,8 @@
         "longitude": 29.6351
       },
       "description": "Grinding stones found in Garamba, Democratic Republic of the Congo.",
-      "readme": "grinding-stones"
+      "readme": "grinding-stones",
+      "imageUrl": "https://media.australian.museum/media/dd/images/Some_image.width-1200.791a171.jpg"
     },
     {
       "id": 41,
@@ -674,7 +643,8 @@
         "longitude": 9.0000
       },
       "description": "Flint knives and blades found in Tassili n'Ajjer, Algeria.",
-      "readme": "flint-knives-blades"
+      "readme": "flint-knives-blades",
+      "imageUrl": "https://cdn11.bigcommerce.com/s-fme25/images/stencil/1280x1280/products/5151/75986/cap245ytd__06889.1584752767.jpg?c=2"
     },
     {
       "id": 42,
@@ -690,7 +660,8 @@
         "longitude": 29.1248
       },
       "description": "Stone arrowheads found in Dakhleh Oasis, Egypt.",
-      "readme": "stone-arrowheads"
+      "readme": "stone-arrowheads",
+      "imageUrl": "https://dakhlehoasisproject.com/wp-content/uploads/2015/06/john069-400x400.jpg"
     },
     {
       "id": 43,
@@ -706,7 +677,8 @@
         "longitude": -15.9739
       },
       "description": "Stone hammers and mauls found in the Senegal River Valley, Senegal.",
-      "readme": "stone-hammers-mauls"
+      "readme": "stone-hammers-mauls",
+      "imageUrl": "https://ars.els-cdn.com/content/image/1-s2.0-S1040618215008939-gr3.jpg"
     },
     {
       "id": 44,
@@ -722,7 +694,8 @@
         "longitude": -9.4852
       },
       "description": "Bone and antler tools found in Tichitt Walata, Mauritania.",
-      "readme": "bone-antler-tools"
+      "readme": "bone-antler-tools",
+      "imageUrl": "https://epqkkxb65h3.exactdn.com/wp-content/uploads/2023/02/m-9141-626x360.jpg?strip=all&lossy=1&ssl=1"
     },
     {
       "id": 45,
@@ -738,7 +711,8 @@
         "longitude": 40.4897
       },
       "description": "Tools made from obsidian, found in Ethiopia.",
-      "readme": "obsidian-tools"
+      "readme": "obsidian-tools",
+      "imageUrl": "https://www.heritagedaily.com/wp-content/uploads/2023/01/obsidian1.jpg"
     },
     {
       "id": 46,
@@ -754,7 +728,8 @@
         "longitude": 29.9997
       },
       "description": "Gold rhino sculpture from Mapungubwe, South Africa.",
-      "readme": "mapungubwe-gold-rhino"
+      "readme": "mapungubwe-gold-rhino",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/UP_rhino.JPG"
     },
     {
       "id": 47,
@@ -770,7 +745,8 @@
         "longitude": 30.9754
       },
       "description": "Soapstone bird sculptures from Great Zimbabwe, Zimbabwe.",
-      "readme": "great-zimbabwe-soapstone-birds"
+      "readme": "great-zimbabwe-soapstone-birds",
+      "imageUrl": "https://www.gulftoday.ae/-/media/gulf-today/images/articles/culture/2020/3/14/birdy2.ashx?h=400&w=750&hash=C3FEF1B73579CE11E2B06379AA9E56DA"
     },
     {
       "id": 48,
@@ -786,7 +762,8 @@
         "longitude": 5.6044
       },
       "description": "Bronze sculptures from Benin City, Nigeria.",
-      "readme": "benin-bronzes"
+      "readme": "benin-bronzes",
+      "imageUrl": "https://www.spectator.co.uk/wp-content/uploads/2021/04/Benin-Bronzes-Alamy.jpg"
     },
     {
       "id": 49,
@@ -802,7 +779,8 @@
         "longitude": 4.5481
       },
       "description": "Terracotta heads from Ife, Nigeria.",
-      "readme": "ife-terracotta-heads"
+      "readme": "ife-terracotta-heads",
+      "imageUrl": "https://www.washingtonpost.com/rf/image_982w/2010-2019/WashingtonPost/2020/07/21/Style/Images/Ife_Head_horizontal.jpg"
     },
     {
       "id": 50,
@@ -818,7 +796,8 @@
         "longitude": 39.0333
       },
       "description": "Rock-hewn churches of Lalibela, Ethiopia.",
-      "readme": "lalibela-rock-hewn-churches"
+      "readme": "lalibela-rock-hewn-churches",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lalibela%2C_san_giorgio%2C_esterno_24.jpg/1200px-Lalibela%2C_san_giorgio%2C_esterno_24.jpg"
     },
     {
       "id": 51,
@@ -834,23 +813,8 @@
         "longitude": 38.7161
       },
       "description": "Obelisks of Axum, Ethiopia.",
-      "readme": "axum-obelisks"
-    },
-    {
-      "id": 52,
-      "name": "Jenne-Jeno Pottery",
-      "type": "tech",
-      "period": "Iron Age",
-      "periodTag": "iron-age",
-      "year": "",
-      "locationName": "Jenne-Jeno",
-      "region": "Mali",
-      "location": {
-        "latitude": 13.5872,
-        "longitude": -4.0778
-      },
-      "description": "Pottery from Jenne-Jeno, Mali.",
-      "readme": "jenne-jeno-pottery"
+      "readme": "axum-obelisks",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rome_Stele.jpg/1200px-Rome_Stele.jpg"
     },
     {
       "id": 53,
@@ -866,7 +830,8 @@
         "longitude": 13.3720
       },
       "description": "Cultural landscape of Sukur, Nigeria.",
-      "readme": "sukur-cultural-landscape"
+      "readme": "sukur-cultural-landscape",
+      "imageUrl": "https://whc.unesco.org/uploads/thumbs/site_0938_0002-750-750-20220504102025.jpg"  
     },
     {
       "id": 54,
@@ -882,23 +847,8 @@
         "longitude": 33.7500
       },
       "description": "Iron smelting furnaces from Meroe, Sudan.",
-      "readme": "iron-smelting-furnaces"
-    },
-    {
-      "id": 55,
-      "name": "Terraced Fields and Irrigation Systems",
-      "type": "agriculture",
-      "period": "Iron Age",
-      "periodTag": "iron-age",
-      "year": "",
-      "locationName": "Bantu Expansion regions",
-      "region": "Great Lakes region (Uganda, Rwanda, Burundi)",
-      "location": {
-        "latitude": -1.9403,
-        "longitude": 29.8739
-      },
-      "description": "Terraced fields and irrigation systems developed during the Bantu Expansion in the Great Lakes region.",
-      "readme": "terraced-fields-irrigation-systems"
+      "readme": "iron-smelting-furnaces",
+      "imageUrl": "https://www.google.com/search?q=Iron+Smelting+Furnaces+sudan&client=safari&rls=en&sxsrf=AB5stBjDdl9N8OFXX1L-nPYr1aSs-voFgA:1689734558743&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjoxo3h35mAAxVYOMAKHSQhBf4Q_AUoAXoECAEQAw&biw=1512&bih=865&dpr=2#imgrc=wRrRzkDTBjhXPM"
     },
     {
       "id": 56,
@@ -914,7 +864,8 @@
         "longitude": -4.5537
       },
       "description": "Adobe architecture of Djenne-Djenno in Mali.",
-      "readme": "djenne-djenno-adobe-architecture"
+      "readme": "djenne-djenno-adobe-architecture",
+      "imageUrl": "https://i0.wp.com/www.fieldstudyoftheworld.com/wp-content/uploads/2018/10/DSC_0268.jpg?ssl=1"  
     },
     {
       "id": 57,
@@ -930,7 +881,8 @@
         "longitude": 26.0900
       },
       "description": "Stone walls constructed by the Tswana people in the Tswapong Hills, Botswana.",
-      "readme": "tswana-stone-walls"
+      "readme": "tswana-stone-walls",
+      "imageUrl": "https://www.theheritageportal.co.za/sites/default/files/styles/adaptive/public/articles/Stone%20walling%20at%20a%20late%20iron%20age%20site%20in%20the%20Magaliesberg%20via%20Andre%20Wedepohl.png?itok=FI0Y6Itp"
     },
     {
       "id": 58,
@@ -946,23 +898,8 @@
         "longitude": 21.7587
       },
       "description": "Carved wooden stools from the Luba culture in the Democratic Republic of the Congo.",
-      "readme": "luba-carved-wooden-stools"
-    },
-    {
-      "id": 59,
-      "name": "Shona Stone Sculptures",
-      "type": "art",
-      "period": "Iron Age",
-      "periodTag": "iron-age",
-      "year": "",
-      "locationName": "Great Zimbabwe",
-      "region": "Zimbabwe",
-      "location": {
-        "latitude": -20.2736,
-        "longitude": 30.9754
-      },
-      "description": "Stone sculptures from the Shona people at Great Zimbabwe, Zimbabwe.",
-      "readme": "shona-stone-sculptures"
+      "readme": "luba-carved-wooden-stools",
+      "imageUrl": "https://culturesinternational.com/cdn/shop/products/IMG_3667_1024x1024.JPG?v=1579648295"
     },
     {
       "id": 60,
@@ -978,7 +915,8 @@
         "longitude": 8.8583
       },
       "description": "Iron tools from the Nok culture in Jos, Nigeria.",
-      "readme": "nok-iron-tools"
+      "readme": "nok-iron-tools",
+      "imageUrl": "data:image/jpeg;base64,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"
     },
     {
       "id": 61,
@@ -1671,7 +1609,7 @@
     {
       "id": 105,
       "name": "Zulu Shields",
-      "type": "artifact",
+      "type": "tech",
       "period": "Pre-Colonial",
       "periodTag": "pre-colonial",
       "year": "",
