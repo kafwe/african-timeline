@@ -1,0 +1,1850 @@
+{
+  "artefacts": [
+    {
+      "id": 1,
+      "name": "Oldowan Tools",
+      "type": "art",
+      "period": "Early Stone Age",
+      "periodTag": "early-stone-age",
+      "year": "2 million years ago",
+      "locationName": "",
+      "region": "",
+      "location": {
+        "latitude": 9,
+        "longitude": 28
+      },
+      "description": "Early stone tools used by Homo habilis and Homo erectus.",
+      "readme": "oldowan-tools",
+      "imageUrl": "https://static.kent.ac.uk/media/news/2021/03/Acheulean-handaxes-e1616600558751.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Olorgesailie Prehistoric Site",
+      "type": "building",
+      "period": "Early Stone Age",
+      "periodTag": "early-stone-age",
+      "year": "2 million years ago",
+      "locationName": "Olorgesailie Prehistoric Site",
+      "region": "Kenya",
+      "location": {
+        "latitude": -1.2286,
+        "longitude": 36.4469
+      },
+      "description": "Excavations at Olorgesailie have revealed Acheulean tools, including handaxes and cleavers.",
+      "readme": "olorgesailie-prehistoric-site",
+      "imageUrl": ""
+    },
+    {
+      "id": 3,
+      "name": "Sterkfontein and Swartkrans Caves",
+      "type": "agriculture",
+      "period": "Early Stone Age",
+      "periodTag": "early-stone-age",
+      "year": "500 CE",
+      "locationName": "Sterkfontein and Swartkrans Caves",
+      "region": "South Africa",
+      "location": {
+        "latitude": -25.9659,
+        "longitude": 27.7825
+      },
+      "description": "Excavations at these caves have uncovered early human artifacts, including stone tools.",
+      "readme": "sterkfontein-and-swartkrans-caves",
+      "imageUrl": ""
+    },
+    {
+      "id": 4,
+      "name": "Wonderwerk Cave",
+      "type": "tech",
+      "period": "Early Stone Age",
+      "periodTag": "early-stone-age",
+      "year": "2 million years ago",
+      "locationName": "Wonderwerk Cave",
+      "region": "South Africa",
+      "location": {
+        "latitude": -28.4648,
+        "longitude": 24.5557
+      },
+      "description": "Excavations at Wonderwerk Cave have revealed stone tools, hearths, and animal remains.",
+      "readme": "wonderwerk-cave",
+      "imageUrl": "https://static.kent.ac.uk/media/news/2021/03/Acheulean-handaxes-e1616600558751.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pebble tools",
+      "type": "tech",
+      "period": "Early Stone Age",
+      "periodTag": "early-stone-age",
+      "year": "",
+      "locationName": "Algeria",
+      "region": "North Africa",
+      "location": {
+        "latitude": 36.758,
+        "longitude": 3.075
+      },
+      "description": "Pebble tools associated with a Lower Pleistocene mammalian assemblage.",
+      "readme": "pebble-tools-from-algeria"
+    },
+    {
+      "id": 6,
+      "name": "Hand axes of both Abbevillian and Acheulean type",
+      "type": "tech",
+      "period": "Early Stone Age",
+      "periodTag": "early-stone-age",
+      "year": "",
+      "locationName": "Tunisia, Algeria, Morocco, and the Sahara region",
+      "region": "North Africa",
+      "location": {
+        "latitude": 36.802,
+        "longitude": 10.166
+      },
+      "description": "Hand axes of both Abbevillian and Acheulean type, together with flake tools.",
+      "readme": "hand-axes-of-both-abbevillian-and-acheulean-type"
+    },
+    {
+      "id": 7,
+      "name": "Tanged points made on flakes and flake blades",
+      "type": "tech",
+      "period": "Early Stone Age",
+      "periodTag": "early-stone-age",
+      "year": "",
+      "locationName": "North Africa",
+      "region": "North Africa",
+      "location": {
+        "latitude": 36.802,
+        "longitude": 10.166
+      },
+      "description": "Tanged points made on flakes and flake blades, characteristic of the Aterian culture, from North Africa.",
+      "readme": "tanged-points-made-on-flakes-and-flake-blades"
+    },
+    {
+      "id": 8,
+      "name": "Large bifacial hand axes",
+      "type": "tech",
+      "period": "Early Stone Age",
+      "periodTag": "early-stone-age",
+      "year": "700,000-1,000,000 years ago",
+      "locationName": "Kathua",
+      "region": "South Africa",
+      "location": {
+        "latitude": -27.795,
+        "longitude": 23.773
+      },
+      "description": "Large bifacial hand axes from Kathu in the Northern Cape province of South Africa.",
+      "readme": "large-bifacial-hand-axes-from-kathu"
+    },
+    {
+      "id": 9,
+      "name": "Blombos Cave Engravings",
+      "type": "art",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Blombos Cave",
+      "region": "South Africa",
+      "location": {
+        "latitude": -34.1978,
+        "longitude": 21.7134
+      },
+      "description": "Engravings found in Blombos Cave, South Africa.",
+      "readme": "blombos-cave-engravings"
+    },
+    {
+      "id": 10,
+      "name": "Howiesons Poort Stone Tools",
+      "type": "tech",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Rose Cottage Cave",
+      "region": "South Africa",
+      "location": {
+        "latitude": -34.0379,
+        "longitude": 21.6078
+      },
+      "description": "Stone tools associated with the Howiesons Poort culture found in Rose Cottage Cave, South Africa.",
+      "readme": "howiesons-poort-stone-tools"
+    },
+    {
+      "id": 11,
+      "name": "Still Bay Points",
+      "type": "tech",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Pinnacle Point",
+      "region": "South Africa",
+      "location": {
+        "latitude": -34.1941,
+        "longitude": 22.1015
+      },
+      "description": "Distinctive stone points known as Still Bay Points found at Pinnacle Point, South Africa.",
+      "readme": "still-bay-points"
+    },
+    {
+      "id": 12,
+      "name": "Bone Harpoons",
+      "type": "tech",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Katanda",
+      "region": "Democratic Republic of the Congo",
+      "location": {
+        "latitude": 0.9113,
+        "longitude": 29.3466
+      },
+      "description": "Bone harpoons from the Middle Stone Age discovered in Katanda, Democratic Republic of the Congo.",
+      "readme": "bone-harpoons"
+    },
+    {
+      "id": 13,
+      "name": "Ochre Processing Tools",
+      "type": "tech",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Diepkloof Rock Shelter",
+      "region": "South Africa",
+      "location": {
+        "latitude": -33.5994,
+        "longitude": 21.3197
+      },
+      "description": "Tools associated with the processing of ochre found at Diepkloof Rock Shelter, South Africa.",
+      "readme": "ochre-processing-tools"
+    },
+    {
+      "id": 14,
+      "name": "Shell Beads",
+      "type": "art",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Taforalt Cave",
+      "region": "Morocco",
+      "location": {
+        "latitude": 34.9611,
+        "longitude": -3.0266
+      },
+      "description": "Shell beads discovered in Taforalt Cave, Morocco.",
+      "readme": "shell-beads"
+    },
+    {
+      "id": 15,
+      "name": "Backed Microliths",
+      "type": "tech",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Sibudu Cave",
+      "region": "South Africa",
+      "location": {
+        "latitude": -29.5004,
+        "longitude": 31.0712
+      },
+      "description": "Microliths with backing found in Sibudu Cave, South Africa.",
+      "readme": "backed-microliths"
+    },
+    {
+      "id": 16,
+      "name": "Levallois Points",
+      "type": "tech",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Apollo 11 Cave",
+      "region": "Namibia",
+      "location": {
+        "latitude": -27.4067,
+        "longitude": 18.9636
+      },
+      "description": "Levallois points discovered in Apollo 11 Cave, Namibia.",
+      "readme": "levallois-points"
+    },
+    {
+      "id": 17,
+      "name": "Engraved Ostrich Eggshell Fragments",
+      "type": "art",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Diepkloof Rock Shelter",
+      "region": "South Africa",
+      "location": {
+        "latitude": -33.5994,
+        "longitude": 21.3197
+      },
+      "description": "Engraved ostrich eggshell fragments found at Diepkloof Rock Shelter, South Africa.",
+      "readme": "engraved-ostrich-eggshell-fragments"
+    },
+    {
+      "id": 18,
+      "name": "Bone Tools",
+      "type": "tech",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Border Cave",
+      "region": "South Africa/Swaziland",
+      "location": {
+        "latitude": -27.4325,
+        "longitude": 31.7605
+      },
+      "description": "Bone tools, including awls and needles, found at Border Cave, South Africa/Swaziland.",
+      "readme": "bone-tools"
+    },
+    {
+      "id": 19,
+      "name": "Stone Blades and Backed Pieces",
+      "type": "tech",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Howiesons Poort, Rose Cottage Cave",
+      "region": "South Africa",
+      "location": {
+        "latitude": -34.0379,
+        "longitude": 21.6078
+      },
+      "description": "Stone blades and backed pieces associated with the Howiesons Poort culture found in Rose Cottage Cave, South Africa.",
+      "readme": "stone-blades-backed-pieces"
+    },
+    {
+      "id": 20,
+      "name": "Shellfish Middens and Fishing Gear",
+      "type": "tech",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Nelson Bay Cave",
+      "region": "South Africa",
+      "location": {
+        "latitude": -34.0513,
+        "longitude": 22.1166
+      },
+      "description": "Shellfish middens and fishing gear found in Nelson Bay Cave, South Africa.",
+      "readme": "shellfish-middens-fishing-gear"
+    },
+    {
+      "id": 21,
+      "name": "Bone Spearheads",
+      "type": "tech",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Twin Rivers and Klasies River Caves",
+      "region": "South Africa",
+      "location": {
+        "latitude": -34.1914,
+        "longitude": 24.3765
+      },
+      "description": "Bone spearheads discovered at Twin Rivers and Klasies River Caves, South Africa.",
+      "readme": "bone-spearheads"
+    },
+    {
+      "id": 22,
+      "name": "Shell Beads",
+      "type": "art",
+      "period": "Middle Stone Age",
+      "periodTag": "middle-stone-age",
+      "year": "",
+      "locationName": "Taforalt Cave",
+      "region": "Morocco",
+      "location": {
+        "latitude": 34.9611,
+        "longitude": -3.0266
+      },
+      "description": "Shell beads discovered in Taforalt Cave, Morocco.",
+      "readme": "shell-beads"
+    },
+    {
+      "id": 23,
+      "name": "Tassili n'Ajjer Rock Art",
+      "type": "art",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Tassili n'Ajjer",
+      "region": "Algeria",
+      "location": {
+        "latitude": 25.0000,
+        "longitude": 9.0000
+      },
+      "description": "Rock art found in Tassili n'Ajjer, Algeria.",
+      "readme": "tassili-najjer-rock-art"
+    },
+    {
+      "id": 24,
+      "name": "Nabta Playa Megaliths",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Nabta Playa",
+      "region": "Egypt",
+      "location": {
+        "latitude": 22.5242,
+        "longitude": 30.8428
+      },
+      "description": "Megaliths found in Nabta Playa, Egypt.",
+      "readme": "nabta-playa-megaliths"
+    },
+    {
+      "id": 25,
+      "name": "Stone Circles of Senegambia",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Senegal and The Gambia",
+      "region": "",
+      "location": {
+        "latitude": 13.4432,
+        "longitude": -15.3101
+      },
+      "description": "Stone circles found in Senegal and The Gambia.",
+      "readme": "stone-circles-senegambia"
+    },
+    {
+      "id": 26,
+      "name": "Cattle Engravings and Rock Paintings",
+      "type": "art",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Brandberg Mountain",
+      "region": "Namibia",
+      "location": {
+        "latitude": -21.0734,
+        "longitude": 14.5819
+      },
+      "description": "Cattle engravings and rock paintings found in Brandberg Mountain, Namibia.",
+      "readme": "cattle-engravings-rock-paintings"
+    },
+    {
+      "id": 27,
+      "name": "Nok Terracotta Sculptures",
+      "type": "art",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Nok",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 9.9416,
+        "longitude": 8.9047
+      },
+      "description": "Terracotta sculptures found in Nok, Nigeria.",
+      "readme": "nok-terracotta-sculptures"
+    },
+    {
+      "id": 28,
+      "name": "Painted Cave Rock Art",
+      "type": "art",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Matobo Hills",
+      "region": "Zimbabwe",
+      "location": {
+        "latitude": -20.5594,
+        "longitude": 28.5198
+      },
+      "description": "Painted cave rock art found in Matobo Hills, Zimbabwe.",
+      "readme": "painted-cave-rock-art"
+    },
+    {
+      "id": 29,
+      "name": "Gobero Pottery",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Gobero",
+      "region": "Niger",
+      "location": {
+        "latitude": 18.7203,
+        "longitude": 12.2296
+      },
+      "description": "Pottery found in Gobero, Niger.",
+      "readme": "gobero-pottery"
+    },
+    {
+      "id": 30,
+      "name": "Stonehenge-like Monuments",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Nabta Playa",
+      "region": "Egypt",
+      "location": {
+        "latitude": 22.5242,
+        "longitude": 30.8428
+      },
+      "description": "Stonehenge-like monuments found in Nabta Playa, Egypt.",
+      "readme": "stonehenge-like-monuments"
+    },
+    {
+      "id": 30,
+      "name": "Great Zimbabwe Ruins",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Masvingo",
+      "region": "Zimbabwe",
+      "location": {
+        "latitude": -20.2707,
+        "longitude": 30.9387
+      },
+      "description": "Ruins of Great Zimbabwe, an ancient city in Masvingo, Zimbabwe.",
+      "readme": "great-zimbabwe-ruins"
+    },
+    {
+      "id": 31,
+      "name": "Djenne-Djenno Terracotta Figures",
+      "type": "art",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Djenne",
+      "region": "Mali",
+      "location": {
+        "latitude": 13.9063,
+        "longitude": -4.5537
+      },
+      "description": "Terracotta figures from the archaeological site of Djenne-Djenno in Mali.",
+      "readme": "djenne-djenno-terracotta-figures"
+    },
+    {
+      "id": 32,
+      "name": "Tichitt Walata Archaeological Sites",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Mauritania",
+      "region": "",
+      "location": {
+        "latitude": 20.2543,
+        "longitude": -10.4167
+      },
+      "description": "Archaeological sites of Tichitt and Walata in Mauritania.",
+      "readme": "tichitt-walata-archaeological-sites"
+    },
+    {
+      "id": 33,
+      "name": "Garamantes Petroglyphs",
+      "type": "art",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Wadi Mathendous",
+      "region": "Libya",
+      "location": {
+        "latitude": 24.8434,
+        "longitude": 11.4399
+      },
+      "description": "Petroglyphs of the Garamantes civilization in Wadi Mathendous, Libya.",
+      "readme": "garamantes-petroglyphs"
+    },
+    {
+      "id": 34,
+      "name": "Tenerian Rock Art",
+      "type": "art",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Aïr Mountains",
+      "region": "Niger",
+      "location": {
+        "latitude": 19.0784,
+        "longitude": 8.5557
+      },
+      "description": "Rock art from the Tenerian culture in the Aïr Mountains, Niger.",
+      "readme": "tenerian-rock-art"
+    },
+    {
+      "id": 35,
+      "name": "Tsodilo Rock Art",
+      "type": "art",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Tsodilo Hills",
+      "region": "Botswana",
+      "location": {
+        "latitude": -18.7865,
+        "longitude": 21.7819
+      },
+      "description": "Rock art from the Tsodilo Hills in Botswana.",
+      "readme": "tsodilo-rock-art"
+    },
+    {
+      "id": 36,
+      "name": "Elmenteitan Pottery",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Elmenteita",
+      "region": "Kenya",
+      "location": {
+        "latitude": -0.6024,
+        "longitude": 36.2210
+      },
+      "description": "Pottery from the Elmenteitan culture in Elmenteita, Kenya.",
+      "readme": "elmenteitan-pottery"
+    },
+    {
+      "id": 37,
+      "name": "Gerzeh Pottery",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Gerzeh",
+      "region": "Egypt",
+      "location": {
+        "latitude": 29.5723,
+        "longitude": 31.1711
+      },
+      "description": "Pottery from the Gerzeh culture in Gerzeh, Egypt.",
+      "readme": "gerzeh-pottery"
+    },
+    {
+      "id": 38,
+      "name": "Songo Mnara Ruins",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Kilwa District",
+      "region": "Tanzania",
+      "location": {
+        "latitude": -8.9662,
+        "longitude": 39.5215
+      },
+      "description": "Ruins of Songo Mnara, an ancient Swahili settlement in Tanzania.",
+      "readme": "songo-mnara-ruins"
+    },
+    {
+      "id": 39,
+      "name": "Polished Stone Axes",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Nabta Playa",
+      "region": "Egypt",
+      "location": {
+        "latitude": 22.5242,
+        "longitude": 30.8428
+      },
+      "description": "Polished stone axes found in Nabta Playa, Egypt.",
+      "readme": "polished-stone-axes"
+    },
+    {
+      "id": 40,
+      "name": "Grinding Stones",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Garamba",
+      "region": "Democratic Republic of the Congo",
+      "location": {
+        "latitude": 3.7836,
+        "longitude": 29.6351
+      },
+      "description": "Grinding stones found in Garamba, Democratic Republic of the Congo.",
+      "readme": "grinding-stones"
+    },
+    {
+      "id": 41,
+      "name": "Flint Knives and Blades",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Tassili n'Ajjer",
+      "region": "Algeria",
+      "location": {
+        "latitude": 25.0000,
+        "longitude": 9.0000
+      },
+      "description": "Flint knives and blades found in Tassili n'Ajjer, Algeria.",
+      "readme": "flint-knives-blades"
+    },
+    {
+      "id": 42,
+      "name": "Stone Arrowheads",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Dakhleh Oasis",
+      "region": "Egypt",
+      "location": {
+        "latitude": 25.5180,
+        "longitude": 29.1248
+      },
+      "description": "Stone arrowheads found in Dakhleh Oasis, Egypt.",
+      "readme": "stone-arrowheads"
+    },
+    {
+      "id": 43,
+      "name": "Stone Hammers and Mauls",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Senegal River Valley",
+      "region": "Senegal",
+      "location": {
+        "latitude": 16.0600,
+        "longitude": -15.9739
+      },
+      "description": "Stone hammers and mauls found in the Senegal River Valley, Senegal.",
+      "readme": "stone-hammers-mauls"
+    },
+    {
+      "id": 44,
+      "name": "Bone and Antler Tools",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Tichitt Walata",
+      "region": "Mauritania",
+      "location": {
+        "latitude": 17.0493,
+        "longitude": -9.4852
+      },
+      "description": "Bone and antler tools found in Tichitt Walata, Mauritania.",
+      "readme": "bone-antler-tools"
+    },
+    {
+      "id": 45,
+      "name": "Obsidian Tools",
+      "type": "tech",
+      "period": "Late Stone Age",
+      "periodTag": "late-stone-age",
+      "year": "",
+      "locationName": "Ethiopia",
+      "region": "",
+      "location": {
+        "latitude": 9.1450,
+        "longitude": 40.4897
+      },
+      "description": "Tools made from obsidian, found in Ethiopia.",
+      "readme": "obsidian-tools"
+    },
+    {
+      "id": 46,
+      "name": "Mapungubwe Gold Rhino",
+      "type": "art",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Mapungubwe",
+      "region": "South Africa",
+      "location": {
+        "latitude": -22.2188,
+        "longitude": 29.9997
+      },
+      "description": "Gold rhino sculpture from Mapungubwe, South Africa.",
+      "readme": "mapungubwe-gold-rhino"
+    },
+    {
+      "id": 47,
+      "name": "Great Zimbabwe Soapstone Birds",
+      "type": "art",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Great Zimbabwe",
+      "region": "Zimbabwe",
+      "location": {
+        "latitude": -20.2736,
+        "longitude": 30.9754
+      },
+      "description": "Soapstone bird sculptures from Great Zimbabwe, Zimbabwe.",
+      "readme": "great-zimbabwe-soapstone-birds"
+    },
+    {
+      "id": 48,
+      "name": "Benin Bronzes",
+      "type": "art",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Benin City",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 6.3350,
+        "longitude": 5.6044
+      },
+      "description": "Bronze sculptures from Benin City, Nigeria.",
+      "readme": "benin-bronzes"
+    },
+    {
+      "id": 49,
+      "name": "Ife Terracotta Heads",
+      "type": "art",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Ife",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 7.4733,
+        "longitude": 4.5481
+      },
+      "description": "Terracotta heads from Ife, Nigeria.",
+      "readme": "ife-terracotta-heads"
+    },
+    {
+      "id": 50,
+      "name": "Lalibela Rock-Hewn Churches",
+      "type": "building",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Lalibela",
+      "region": "Ethiopia",
+      "location": {
+        "latitude": 12.0333,
+        "longitude": 39.0333
+      },
+      "description": "Rock-hewn churches of Lalibela, Ethiopia.",
+      "readme": "lalibela-rock-hewn-churches"
+    },
+    {
+      "id": 51,
+      "name": "Axum Obelisks",
+      "type": "building",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Axum",
+      "region": "Ethiopia",
+      "location": {
+        "latitude": 14.1307,
+        "longitude": 38.7161
+      },
+      "description": "Obelisks of Axum, Ethiopia.",
+      "readme": "axum-obelisks"
+    },
+    {
+      "id": 52,
+      "name": "Jenne-Jeno Pottery",
+      "type": "tech",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Jenne-Jeno",
+      "region": "Mali",
+      "location": {
+        "latitude": 13.5872,
+        "longitude": -4.0778
+      },
+      "description": "Pottery from Jenne-Jeno, Mali.",
+      "readme": "jenne-jeno-pottery"
+    },
+    {
+      "id": 53,
+      "name": "Sukur Cultural Landscape",
+      "type": "building",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Sukur",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 10.8831,
+        "longitude": 13.3720
+      },
+      "description": "Cultural landscape of Sukur, Nigeria.",
+      "readme": "sukur-cultural-landscape"
+    },
+    {
+      "id": 54,
+      "name": "Iron Smelting Furnaces",
+      "type": "tech",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Meroe",
+      "region": "Sudan",
+      "location": {
+        "latitude": 16.9400,
+        "longitude": 33.7500
+      },
+      "description": "Iron smelting furnaces from Meroe, Sudan.",
+      "readme": "iron-smelting-furnaces"
+    },
+    {
+      "id": 55,
+      "name": "Terraced Fields and Irrigation Systems",
+      "type": "agriculture",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Bantu Expansion regions",
+      "region": "Great Lakes region (Uganda, Rwanda, Burundi)",
+      "location": {
+        "latitude": -1.9403,
+        "longitude": 29.8739
+      },
+      "description": "Terraced fields and irrigation systems developed during the Bantu Expansion in the Great Lakes region.",
+      "readme": "terraced-fields-irrigation-systems"
+    },
+    {
+      "id": 56,
+      "name": "Djenne-Djenno Adobe Architecture",
+      "type": "building",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Djenne",
+      "region": "Mali",
+      "location": {
+        "latitude": 13.9063,
+        "longitude": -4.5537
+      },
+      "description": "Adobe architecture of Djenne-Djenno in Mali.",
+      "readme": "djenne-djenno-adobe-architecture"
+    },
+    {
+      "id": 57,
+      "name": "Tswana Stone Walls",
+      "type": "building",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Tswapong Hills",
+      "region": "Botswana",
+      "location": {
+        "latitude": -23.5400,
+        "longitude": 26.0900
+      },
+      "description": "Stone walls constructed by the Tswana people in the Tswapong Hills, Botswana.",
+      "readme": "tswana-stone-walls"
+    },
+    {
+      "id": 58,
+      "name": "Luba Carved Wooden Stools",
+      "type": "art",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Democratic Republic of the Congo",
+      "region": "",
+      "location": {
+        "latitude": -4.0383,
+        "longitude": 21.7587
+      },
+      "description": "Carved wooden stools from the Luba culture in the Democratic Republic of the Congo.",
+      "readme": "luba-carved-wooden-stools"
+    },
+    {
+      "id": 59,
+      "name": "Shona Stone Sculptures",
+      "type": "art",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Great Zimbabwe",
+      "region": "Zimbabwe",
+      "location": {
+        "latitude": -20.2736,
+        "longitude": 30.9754
+      },
+      "description": "Stone sculptures from the Shona people at Great Zimbabwe, Zimbabwe.",
+      "readme": "shona-stone-sculptures"
+    },
+    {
+      "id": 60,
+      "name": "Nok Iron Tools",
+      "type": "tech",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Jos",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 9.8965,
+        "longitude": 8.8583
+      },
+      "description": "Iron tools from the Nok culture in Jos, Nigeria.",
+      "readme": "nok-iron-tools"
+    },
+    {
+      "id": 61,
+      "name": "Yoruba Indigo Dyeing Techniques",
+      "type": "tech",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Abeokuta",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 7.1534,
+        "longitude": 3.3580
+      },
+      "description": "Indigo dyeing techniques of the Yoruba people in Abeokuta, Nigeria.",
+      "readme": "yoruba-indigo-dyeing-techniques"
+    },
+    {
+      "id": 63,
+      "name": "Dogon Masks",
+      "type": "art",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Dogon region",
+      "region": "Mali",
+      "location": {
+        "latitude": 14.7339,
+        "longitude": -3.6168
+      },
+      "description": "Traditional masks from the Dogon region in Mali.",
+      "readme": "dogon-masks"
+    },
+    {
+      "id": 64,
+      "name": "Igbo-Ukwu Bronzes",
+      "type": "art",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Igbo-Ukwu",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 6.0428,
+        "longitude": 7.1392
+      },
+      "description": "Bronze artifacts from Igbo-Ukwu, Nigeria.",
+      "readme": "igbo-ukwu-bronzes"
+    },
+    {
+      "id": 65,
+      "name": "Bokoni Stone-Walled Terraces",
+      "type": "building",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Bokoni",
+      "region": "South Africa",
+      "location": {
+        "latitude": -24.7673,
+        "longitude": 30.4518
+      },
+      "description": "Stone-walled terraces of Bokoni, South Africa.",
+      "readme": "bokoni-stone-walled-terraces"
+    },
+    {
+      "id": 66,
+      "name": "Kondoa Rock Art",
+      "type": "art",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Kondoa",
+      "region": "Tanzania",
+      "location": {
+        "latitude": -4.9107,
+        "longitude": 35.7852
+      },
+      "description": "Rock art from Kondoa, Tanzania.",
+      "readme": "kondoa-rock-art"
+    },
+    {
+      "id": 67,
+      "name": "Tassili n'Ajjer Cave Paintings",
+      "type": "art",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Tassili n'Ajjer",
+      "region": "Algeria",
+      "location": {
+        "latitude": 25.0000,
+        "longitude": 9.0000
+      },
+      "description": "Cave paintings from Tassili n'Ajjer, Algeria.",
+      "readme": "tassili-n-ajjer-cave-paintings"
+    },
+    {
+      "id": 68,
+      "name": "Komaland Terracotta Figures",
+      "type": "art",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Komaland",
+      "region": "Ghana",
+      "location": {
+        "latitude": 6.7148,
+        "longitude": -0.2987
+      },
+      "description": "Terracotta figures from Komaland, Ghana.",
+      "readme": "komaland-terracotta-figures"
+    },
+    {
+      "id": 69,
+      "name": "Nubian Pyramids",
+      "type": "building",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Meroe",
+      "region": "Sudan",
+      "location": {
+        "latitude": 16.9414,
+        "longitude": 33.6706
+      },
+      "description": "Pyramids of the Nubian civilization in Meroe, Sudan.",
+      "readme": "nubian-pyramids"
+    },
+    {
+      "id": 70,
+      "name": "Lunda Copper Currency",
+      "type": "tech",
+      "period": "Iron Age",
+      "periodTag": "iron-age",
+      "year": "",
+      "locationName": "Lunda Empire",
+      "region": "Central Africa",
+      "location": {
+        "latitude": -6.1751,
+        "longitude": 23.5540
+      },
+      "description": "Copper currency used in the Lunda Empire of Central Africa.",
+      "readme": "lunda-copper-currency"
+    },
+    {
+      "id": 71,
+      "name": "Timbuktu Manuscripts",
+      "type": "art",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Timbuktu",
+      "region": "Mali",
+      "location": {
+        "latitude": 16.7666,
+        "longitude": -3.0026
+      },
+      "description": "Manuscripts from Timbuktu, Mali.",
+      "readme": "timbuktu-manuscripts"
+    },
+    {
+      "id": 72,
+      "name": "Gao Mosque",
+      "type": "building",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Gao",
+      "region": "Mali",
+      "location": {
+        "latitude": 16.2719,
+        "longitude": -0.0426
+      },
+      "description": "Mosque in Gao, Mali.",
+      "readme": "gao-mosque"
+    },
+    {
+      "id": 73,
+      "name": "Lalibela Crosses",
+      "type": "art",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Lalibela",
+      "region": "Ethiopia",
+      "location": {
+        "latitude": 12.0290,
+        "longitude": 39.0415
+      },
+      "description": "Crosses from Lalibela, Ethiopia.",
+      "readme": "lalibela-crosses"
+    },
+    {
+      "id": 74,
+      "name": "Kilwa Pot Sherds",
+      "type": "art",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Kilwa Kisiwani",
+      "region": "Tanzania",
+      "location": {
+        "latitude": -8.9736,
+        "longitude": 39.5117
+      },
+      "description": "Pottery sherds from Kilwa Kisiwani, Tanzania.",
+      "readme": "kilwa-pot-sherds"
+    },
+    {
+      "id": 75,
+      "name": "Great Mosque of Djenne",
+      "type": "building",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Djenne",
+      "region": "Mali",
+      "location": {
+        "latitude": 13.9059,
+        "longitude": -4.5526
+      },
+      "description": "Great Mosque of Djenne in Mali.",
+      "readme": "great-mosque-of-djenne"
+    },
+    {
+      "id": 76,
+      "name": "Ife Bronze Heads",
+      "type": "art",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Ife",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 7.4733,
+        "longitude": 4.5481
+      },
+      "description": "Bronze heads from Ife, Nigeria.",
+      "readme": "ife-bronze-heads"
+    },
+    {
+      "id": 77,
+      "name": "Sankore Mosque",
+      "type": "building",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Timbuktu",
+      "region": "Mali",
+      "location": {
+        "latitude": 16.7666,
+        "longitude": -3.0026
+      },
+      "description": "Sankore Mosque in Timbuktu, Mali.",
+      "readme": "sankore-mosque"
+    },
+    {
+      "id": 78,
+      "name": "Swahili Coral Stone Architecture",
+      "type": "building",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Swahili Coast",
+      "region": "East Africa",
+      "location": {
+        "latitude": -6.7924,
+        "longitude": 39.2083
+      },
+      "description": "Coral stone architecture along the Swahili Coast of East Africa.",
+      "readme": "swahili-coral-stone-architecture"
+    },
+    {
+      "id": 79,
+      "name": "Swahili Trading Beads",
+      "type": "art",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Swahili Coast",
+      "region": "East Africa",
+      "location": {
+        "latitude": -6.7924,
+        "longitude": 39.2083
+      },
+      "description": "Trading beads used along the Swahili Coast of East Africa.",
+      "readme": "swahili-trading-beads"
+    },
+    {
+      "id": 80,
+      "name": "Kano Bronze Sculptures",
+      "type": "art",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Kano",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 12.0029,
+        "longitude": 8.5137
+      },
+      "description": "Bronze sculptures from Kano, Nigeria.",
+      "readme": "kano-bronze-sculptures"
+    },
+    {
+      "id": 81,
+      "name": "Great Enclosure Walls",
+      "type": "building",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Great Zimbabwe",
+      "region": "Zimbabwe",
+      "location": {
+        "latitude": -20.2736,
+        "longitude": 30.9754
+      },
+      "description": "Walls of the Great Enclosure at Great Zimbabwe.",
+      "readme": "great-enclosure-walls"
+    },
+    {
+      "id": 82,
+      "name": "Gonder Royal Enclosure",
+      "type": "building",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Gonder",
+      "region": "Ethiopia",
+      "location": {
+        "latitude": 12.6085,
+        "longitude": 37.4661
+      },
+      "description": "Royal enclosure in Gonder, Ethiopia.",
+      "readme": "gonder-royal-enclosure"
+    },
+    {
+      "id": 83,
+      "name": "Kanem-Bornu Pottery",
+      "type": "art",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Lake Chad Basin",
+      "region": "Central Africa",
+      "location": {
+        "latitude": 13.0,
+        "longitude": 14.0
+      },
+      "description": "Pottery from the Kanem-Bornu Empire in the Lake Chad Basin.",
+      "readme": "kanem-bornu-pottery"
+    },
+    {
+      "id": 84,
+      "name": "Lamu Fort",
+      "type": "building",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Lamu Island",
+      "region": "Kenya",
+      "location": {
+        "latitude": -2.2717,
+        "longitude": 40.9006
+      },
+      "description": "Fortification on Lamu Island, Kenya.",
+      "readme": "lamu-fort"
+    },
+    {
+      "id": 85,
+      "name": "Saharan Rock Art",
+      "type": "art",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Tassili n'Ajjer",
+      "region": "Algeria",
+      "location": {
+        "latitude": 25.0000,
+        "longitude": 9.0000
+      },
+      "description": "Rock art from Tassili n'Ajjer, Algeria.",
+      "readme": "saharan-rock-art"
+    },
+    {
+      "id": 86,
+      "name": "Benin Ivory Carvings",
+      "type": "art",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Benin City",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 6.3350,
+        "longitude": 5.6046
+      },
+      "description": "Ivory carvings from Benin City, Nigeria.",
+      "readme": "benin-ivory-carvings"
+    },
+    {
+      "id": 87,
+      "name": "Mbanza Kongo Ruins",
+      "type": "building",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Mbanza Kongo",
+      "region": "Angola",
+      "location": {
+        "latitude": -6.2687,
+        "longitude": 14.2350
+      },
+      "description": "Ruins of Mbanza Kongo, Angola.",
+      "readme": "mbanza-kongo-ruins"
+    },
+    {
+      "id": 88,
+      "name": "Adal Sword",
+      "type": "tech",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Adal Sultanate",
+      "region": "Ethiopia",
+      "location": {
+        "latitude": 9.6150,
+        "longitude": 41.8500
+      },
+      "description": "Sword from the Adal Sultanate in Ethiopia.",
+      "readme": "adal-sword"
+    },
+    {
+      "id": 89,
+      "name": "Aksum Obelisks",
+      "type": "building",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Aksum",
+      "region": "Ethiopia",
+      "location": {
+        "latitude": 14.1300,
+        "longitude": 38.7100
+      },
+      "description": "Obelisks of Aksum, Ethiopia.",
+      "readme": "aksum-obelisks"
+    },
+    {
+      "id": 90,
+      "name": "Swahili Wooden Doors",
+      "type": "art",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Zanzibar",
+      "region": "Tanzania",
+      "location": {
+        "latitude": -6.1652,
+        "longitude": 39.1983
+      },
+      "description": "Wooden doors from the Swahili Coast in Zanzibar, Tanzania.",
+      "readme": "swahili-wooden-doors"
+    },
+    {
+      "id": 91,
+      "name": "Dahomey Terracotta Figures",
+      "type": "art",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Kingdom of Dahomey",
+      "region": "Benin",
+      "location": {
+        "latitude": 6.3654,
+        "longitude": 2.4183
+      },
+      "description": "Terracotta figures from the Kingdom of Dahomey in Benin.",
+      "readme": "dahomey-terracotta-figures"
+    },
+    {
+      "id": 92,
+      "name": "Meroitic Inscriptions",
+      "type": "art",
+      "period": "Medieval",
+      "periodTag": "medieval",
+      "year": "",
+      "locationName": "Meroe",
+      "region": "Sudan",
+      "location": {
+        "latitude": 16.9404,
+        "longitude": 33.6445
+      },
+      "description": "Inscriptions from the Meroitic civilization in Meroe, Sudan.",
+      "readme": "meroitic-inscriptions"
+    },
+    {
+      "id": 93,
+      "name": "Great Zimbabwe Soapstone Birds",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Great Zimbabwe",
+      "region": "Zimbabwe",
+      "location": {
+        "latitude": -20.2736,
+        "longitude": 30.9754
+      },
+      "description": "Soapstone birds from Great Zimbabwe, Zimbabwe.",
+      "readme": "great-zimbabwe-soapstone-birds"
+    },
+    {
+      "id": 94,
+      "name": "Tuareg Jewelry",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Sahara Desert region",
+      "region": "Niger, Mali, Algeria, Libya",
+      "location": {
+        "latitude": 17.6078,
+        "longitude": 8.0817
+      },
+      "description": "Jewelry from the Tuareg people in the Sahara Desert region.",
+      "readme": "tuareg-jewelry"
+    },
+    {
+      "id": 95,
+      "name": "Maasai Beaded Jewelry",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Kenya and Tanzania",
+      "region": "East Africa",
+      "location": {
+        "latitude": -1.9403,
+        "longitude": 29.8739
+      },
+      "description": "Beaded jewelry from the Maasai people in Kenya and Tanzania.",
+      "readme": "maasai-beaded-jewelry"
+    },
+    {
+      "id": 96,
+      "name": "Swazi Reed Dance Ceremonial Shields",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Eswatini",
+      "region": "Southern Africa",
+      "location": {
+        "latitude": -26.5225,
+        "longitude": 31.4659
+      },
+      "description": "Reed dance ceremonial shields from Eswatini (formerly Swaziland).",
+      "readme": "swazi-reed-dance-ceremonial-shields"
+    },
+    {
+      "id": 97,
+      "name": "Yoruba Gelede Masks",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Yoruba region",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 7.3775,
+        "longitude": 3.9470
+      },
+      "description": "Gelede masks from the Yoruba region in Nigeria.",
+      "readme": "yoruba-gelede-masks"
+    },
+    {
+      "id": 98,
+      "name": "Kongo Power Figures",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Kongo Kingdom",
+      "region": "Democratic Republic of the Congo, Angola",
+      "location": {
+        "latitude": -4.0383,
+        "longitude": 21.7587
+      },
+      "description": "Power figures from the Kongo Kingdom in the Democratic Republic of the Congo and Angola.",
+      "readme": "kongo-power-figures"
+    },
+    {
+      "id": 99,
+      "name": "Himba Wooden Carvings",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Namibia",
+      "region": "Southern Africa",
+      "location": {
+        "latitude": -20.5937,
+        "longitude": 14.5260
+      },
+      "description": "Wooden carvings from the Himba people in Namibia.",
+      "readme": "himba-wooden-carvings"
+    },
+    {
+      "id": 100,
+      "name": "San Rock Paintings",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Southern Africa",
+      "region": "South Africa, Namibia, Botswana",
+      "location": {
+        "latitude": -23.9884,
+        "longitude": 21.0936
+      },
+      "description": "Rock paintings from the San people in Southern Africa.",
+      "readme": "san-rock-paintings"
+    },
+    {
+      "id": 101,
+      "name": "Ashanti Golden Stool",
+      "type": "artifact",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Kumasi",
+      "region": "Ghana",
+      "location": {
+        "latitude": 6.6930,
+        "longitude": -1.6214
+      },
+      "description": "The Golden Stool of the Ashanti people in Kumasi, Ghana.",
+      "readme": "ashanti-golden-stool"
+    },
+    {
+      "id": 102,
+      "name": "Makonde Wood Carvings",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Mozambique and Tanzania",
+      "region": "Southern Africa",
+      "location": {
+        "latitude": -18.6657,
+        "longitude": 35.5296
+      },
+      "description": "Wood carvings from the Makonde people in Mozambique and Tanzania.",
+      "readme": "makonde-wood-carvings"
+    },
+    {
+      "id": 103,
+      "name": "Ndebele Beadwork",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "South Africa and Zimbabwe",
+      "region": "Southern Africa",
+      "location": {
+        "latitude": -30.5595,
+        "longitude": 22.9375
+      },
+      "description": "Beadwork from the Ndebele people in South Africa and Zimbabwe.",
+      "readme": "ndebele-beadwork"
+    },
+    {
+      "id": 104,
+      "name": "Kente Cloth",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Ashanti Region",
+      "region": "Ghana",
+      "location": {
+        "latitude": 6.6930,
+        "longitude": -1.6214
+      },
+      "description": "Colorful woven cloth known as Kente from the Ashanti region in Ghana.",
+      "readme": "kente-cloth"
+    },
+    {
+      "id": 105,
+      "name": "Zulu Shields",
+      "type": "artifact",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "KwaZulu-Natal",
+      "region": "South Africa",
+      "location": {
+        "latitude": -28.5306,
+        "longitude": 30.8958
+      },
+      "description": "Shields used by the Zulu people in KwaZulu-Natal, South Africa.",
+      "readme": "zulu-shields"
+    },
+    {
+      "id": 106,
+      "name": "Mossi Dolls",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Burkina Faso",
+      "region": "West Africa",
+      "location": {
+        "latitude": 12.2383,
+        "longitude": -1.5616
+      },
+      "description": "Dolls from the Mossi people in Burkina Faso.",
+      "readme": "mossi-dolls"
+    },
+    {
+      "id": 107,
+      "name": "Bambara Chiwara Headdresses",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Mali, Guinea, Burkina Faso",
+      "region": "West Africa",
+      "location": {
+        "latitude": 17.5707,
+        "longitude": -3.9962
+      },
+      "description": "Chiwara headdresses from the Bambara people in Mali, Guinea, and Burkina Faso.",
+      "readme": "bambara-chiwara-headdresses"
+    },
+    {
+      "id": 108,
+      "name": "Yoruba Egungun Masquerade Costumes",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Yoruba region",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 6.4654,
+        "longitude": 7.4943
+      },
+      "description": "Masquerade costumes from the Yoruba region in Nigeria.",
+      "readme": "yoruba-egungun-masquerade-costumes"
+    },
+    {
+      "id": 109,
+      "name": "Igbo Uli Body Art",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Igbo region",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 6.4654,
+        "longitude": 7.4943
+      },
+      "description": "Uli body art from the Igbo region in Nigeria.",
+      "readme": "igbo-uli-body-art"
+    },
+    {
+      "id": 110,
+      "name": "Tutsi Basketry",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Rwanda, Burundi, Uganda, Democratic Republic of the Congo",
+      "region": "East Africa, Central Africa",
+      "location": {
+        "latitude": -1.9403,
+        "longitude": 29.8739
+      },
+      "description": "Basketry from the Tutsi people in Rwanda, Burundi, Uganda, and Democratic Republic of the Congo.",
+      "readme": "tutsi-basketry"
+    },
+    {
+      "id": 111,
+      "name": "Igbo Mbari Houses",
+      "type": "building",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Igbo region",
+      "region": "Nigeria",
+      "location": {
+        "latitude": 6.465422,
+        "longitude": 7.494884
+      },
+      "description": "Mbari houses from the Igbo region in Nigeria.",
+      "readme": "igbo-mbari-houses"
+    },
+    {
+      "id": 112,
+      "name": "Chokwe Wooden Masks",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Angola, Democratic Republic of the Congo, Zambia",
+      "region": "Central Africa, Southern Africa",
+      "location": {
+        "latitude": -11.2027,
+        "longitude": 17.8739
+      },
+      "description": "Wooden masks from the Chokwe people in Angola, Democratic Republic of the Congo, and Zambia.",
+      "readme": "chokwe-wooden-masks"
+    },
+    {
+      "id": 113,
+      "name": "Oromo Gadaa System Artifacts",
+      "type": "tech",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Oromia region",
+      "region": "Ethiopia",
+      "location": {
+        "latitude": 8.7806,
+        "longitude": 38.7578
+      },
+      "description": "Artifacts related to the Gadaa system of the Oromo people in the Oromia region, Ethiopia.",
+      "readme": "oromo-gadaa-system-artifacts"
+    },
+    {
+      "id": 114,
+      "name": "Kuba Raffia Textiles",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Democratic Republic of the Congo",
+      "region": "Central Africa",
+      "location": {
+        "latitude": -4.0383,
+        "longitude": 21.7587
+      },
+      "description": "Raffia textiles from the Kuba people in the Democratic Republic of the Congo.",
+      "readme": "kuba-raffia-textiles"
+    },
+    {
+      "id": 115,
+      "name": "Lobi Bateba Sculptures",
+      "type": "art",
+      "period": "Pre-Colonial",
+      "periodTag": "pre-colonial",
+      "year": "",
+      "locationName": "Burkina Faso, Ghana, Ivory Coast",
+      "region": "West Africa",
+      "location": {
+        "latitude": 12.2383,
+        "longitude": -1.5616
+      },
+      "description": "Bateba sculptures from the Lobi people in Burkina Faso, Ghana, and Ivory Coast.",
+      "readme": "lobi-bateba-sculptures"
+    }
+    
+    
+  ]
+}
