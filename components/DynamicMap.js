@@ -25,7 +25,7 @@ const Map = ({ children, className, containerClassName, ...rest }) => {
     alignItems: 'center',
     height: '80vh',
     width: '60%',
-    margin: '4rem auto',
+    margin: '2rem auto',
   };
 
   const mapStyle = {

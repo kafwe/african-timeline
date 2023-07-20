@@ -16,11 +16,7 @@ const PopupCard = ({ name, locationName, region, description, period, type, year
             <div class="px-6 pt-4 pb-2">
                 <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">{capitalisedType}</span>
                 <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">{period}</span>
-            </div>
-            <div className="flex justify-end pt-2 pb-4">
-                <Link href={""} className="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 hover:text-blue-500  focus:text-blue-600">
-                Learn more
-                </Link>
+                {year && <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">{year}</span>}
             </div>
         </div>
     )
